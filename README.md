@@ -1,2 +1,2 @@
-# Muhammad_Dzaki_El_K._Portfolio
+# Manager-Salary-Survey
 Data Scientist Portfolio
